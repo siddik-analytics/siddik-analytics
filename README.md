@@ -1,16 +1,29 @@
-## Hi there 👋
+# Md Siddik, ACCA
+Senior FP&A Analyst | Financial Modeling | SQL | Power BI | Python | AI in Finance
 
-<!--
-**siddik-analytics/siddik-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Finance professional specializing in FP&A, financial modeling, forecasting, and data analytics.  
+I build automated finance tools, dashboards, and AI-powered forecasting models.
 
-Here are some ideas to get you started:
+## Skills
+- FP&A & Financial Modeling
+- Forecasting & Scenario Analysis
+- SQL & Data Modeling
+- Power BI & Dashboarding
+- Python (Pandas, Numpy)
+- Excel Automation
+- ERP (D365, Workday Adaptive, NetSuit)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+🔹 FP&A Automated Reporting Pack  
+🔹 Revenue Forecasting Model  
+🔹 SaaS Finance Dashboard  
+🔹 Budget vs Actual AI Tool  
+🔹 Financial Business Case Model  
+
+## Currently Working On
+Building AI-powered FP&A tools and automation projects
+
+## Contact
+LinkedIn: (https://www.linkedin.com/in/abubakkar-roby/)
+Location: Vancouver, Canada
